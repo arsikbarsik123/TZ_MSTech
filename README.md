@@ -13,10 +13,10 @@
 ## 🎬 Видео
 
 - **Видео №1 — Демонстрация работы приложения**  
-https://github.com/user-attachments/assets/f189fcc3-8ec0-44fe-bea8-7c7a1fb77606
+<video src="./Videos/IMG_5185.mp4" width="300" controls></video>
 
 - **Видео №2 — Работа с нейросетью (ChatGPT)**  
-https://github.com/user-attachments/assets/0a59e0e5-3b8c-47f0-8fa7-6dddebe7272a
+<video src="./Videos/2025-11-30 19-25-46.mp4" width="300" controls></video>
 
 ---
 
